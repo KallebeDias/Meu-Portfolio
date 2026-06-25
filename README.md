@@ -89,6 +89,14 @@ Meu-Portfolio/
 
 ---
 
+## 🛡️ Implantação e Boas Práticas
+
+Este repositório foi implantado seguindo um processo estruturado, incluindo:
+- Controle de versão com Git e GitHub
+- Autenticação de dois fatores (2FA) habilitada
+- Proteção de branch principal exigindo Pull Requests
+- Secret Scanning e Push Protection ativos
+
 <p align="center">
   Desenvolvido por <strong>Deyvid Kallebe Gonçalves Dias</strong> · Engenharia de Software · 2026
 </p>
