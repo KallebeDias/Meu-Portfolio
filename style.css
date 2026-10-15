@@ -528,7 +528,7 @@
       letter-spacing: 0.08em;
     }
 
-    footer span { color: var(--accent2); }
+    footer span { color: var(--text-muted); }
 
     /* ANIMATIONS */
     @keyframes fadeUp {
